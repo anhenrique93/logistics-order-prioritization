@@ -1,6 +1,5 @@
 name: Build
 
-# Run Evetytime on push to main
 on:
   workflow_dispatch:
   push:
