@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Logistics.OrderPrioritization.Api/Logistics.OrderPrioritization.Api.csproj" Id="e0707c49-b93e-41b9-b5d9-38787579fa3c" />
+    <Project Path="src/Logistics.OrderPrioritization.Application/Logistics.OrderPrioritization.Application.csproj" Id="7e48c5cb-0d3a-4d50-b29e-f83dea3a6a46" />
+    <Project Path="src/Logistics.OrderPrioritization.Contracts/Logistics.OrderPrioritization.Contracts.csproj" Id="094cb383-403d-4fce-9a9b-657c6f8b836f" />
+    <Project Path="src/Logistics.OrderPrioritization.Domain/Logistics.OrderPrioritization.Domain.csproj" Id="396945b5-b622-46ed-aadd-295979f9cec2" />
+    <Project Path="src/Logistics.OrderPrioritization.Infrastructure/Logistics.OrderPrioritization.Infrastructure.csproj" Id="aca8e9de-6fd8-42c0-8a28-a58f85105c4d" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
